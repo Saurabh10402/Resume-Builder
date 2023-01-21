@@ -48,13 +48,27 @@ nav ul li a::after{
 nav ul li a:hover::after{
     width: 100%;
 }
-.dld{
-    font-size: 30px;
-    text-align: center;
-    padding: 2%;
+.temp{
+font-size: 30px;
+text-align: center;
+padding: 2%;
 } 
-.resumes{
-    padding-top: 15%;
-    text-align: center;
-    font-size: 20px;
+.temp1{
+    height: 40%;
+    width: 20%;
+    padding-top: 3%;
+    padding-left: 15%;
 }
+.temp2{
+    height: 40%;
+    width: 20%;
+    padding-top: 3%;
+    padding-left: 5%;
+}
+.temp3{
+    height: 40%;
+    width: 20%;
+    padding-top: 3%;
+    padding-left: 5%;
+}
+
